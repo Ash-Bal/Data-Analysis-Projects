@@ -11,6 +11,7 @@ Repository that contains some of the Data Analysis Projects I've done in Python.
 
 - #### avocado_prediction.ipynb
 
-  - one of the assignmetns I worked on in my Introduction to Data Science Course
+  - one of the assignments I worked on in my Introduction to Data Science Course
   - Cleaned and prepared data to feed into Logistic Regression Model. 
   - Project goal was to build a model to predict avocado price 
+
